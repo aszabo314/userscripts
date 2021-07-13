@@ -1,6 +1,9 @@
 // ==UserScript==
 // @name         Stech decorator
 // @version      1
+// @history      1 Initial
+// @downloadURL  https://github.com/aszabo314/userscripts/raw/master/stechdecorator/stechdecorator.user.js
+// @updateURL    https://github.com/aszabo314/userscripts/raw/master/stechdecorator/stechdecorator.user.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/arrive/2.4.1/arrive.min.js
 // @description  ARCS(basic research) & AMASE(firmenpartnerprojekt)
 // @author       Vark
